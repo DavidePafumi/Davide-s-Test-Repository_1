@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Personally made for Davide Pafumi
+# Introduction to GitHub Personally made for Davide Pafumi
 
 _Get started using GitHub in less than an hour._
 
